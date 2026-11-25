@@ -2,7 +2,7 @@
 
 # How To Capture Offscreen Screenshot
 
-A practical off-screen component screenshot sample for HarmonyOS Next smart wearables. The app demonstrates how to use `UIContext.ComponentSnapshot.createFromBuilder` to render an ArkUI component that is not part of the visible component tree, receive the result as a `PixelMap`, save it as a JPEG in the application sandbox, and display the saved long screenshot on a separate scrollable page. The codelab teaches how to generate and process UI previews without first presenting their source components on screen.
+A practical off-screen component screenshot sample for HarmonyOS smart wearables. The app demonstrates how to use `UIContext.ComponentSnapshot.createFromBuilder` to render an ArkUI component that is not part of the visible component tree, receive the result as a `PixelMap`, save it as a JPEG in the application sandbox, and display the saved long screenshot on a separate scrollable page. The codelab teaches how to generate and process UI previews without first presenting their source components on screen.
 
 # Preview
 
